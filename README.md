@@ -11,3 +11,4 @@ Ejercicio 4: Creacion de notebooks
 Ejercicio 5: Creacion de un CV en LATex
 
 Ejercicio 6: Creacion de un archivo con metadatos en el entorno R
+
